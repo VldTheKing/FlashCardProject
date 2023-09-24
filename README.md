@@ -22,11 +22,11 @@ Usage:
 
 Clone this repository to your local machine.
 
-```git clone https://github.com/yourusername/french-english-flashcards.git```
+```git clone https://github.com/yourusername/FlashCardProject.git```
 
 Navigate to the project directory.
 
-```cd french-english-flashcards```
+```cd FlashCardProject```
 
 Run the French-English Flashcards App.
 
