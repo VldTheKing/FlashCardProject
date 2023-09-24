@@ -22,7 +22,7 @@ Usage:
 
 Clone this repository to your local machine.
 
-```git clone https://github.com/yourusername/FlashCardProject.git```
+```git clone https://github.com/VldTheKing/FlashCardProject.git```
 
 Navigate to the project directory.
 
