@@ -38,7 +38,7 @@ You can customize the list of French words and their English translations in the
 
 Author:
 
-Vlad CHiorescu
+Vlad Chiorescu
 
 Preview:
 
